@@ -1,0 +1,6 @@
+{
+  "name": "The Book of Changes",
+  "description": "An immersive digital temple and interactive philosophical experience inspired by the I Ching. Features dynamic Trigram realms, ritual coin-toss divination, fluid calligraphy strokes, a comprehensive 64-hexagram wisdom library, and deep philosophical AI interpretation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
